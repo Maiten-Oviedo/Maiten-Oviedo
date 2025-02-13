@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <h2 align="left">Hi 👋! My name is Maitén and I'm a FullStack developer, from Mendoza, Argentina.</h2>
 
 ###
@@ -75,4 +72,3 @@
 ###
 
 - 🌱 I’m currently learning Typescript, Spring Security and Next JS.
--->
