@@ -65,10 +65,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Maiten-Oviedo/Maiten-Oviedo/output/snake.svg" alt="Snake animation" />
-
-###
 
 - 🌱 I’m currently learning Typescript, Spring Security and Next JS.
