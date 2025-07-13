@@ -66,5 +66,3 @@
 
 ###
 
-
-- 🌱 I’m currently learning Typescript, Spring Security and Next JS.
